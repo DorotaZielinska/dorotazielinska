@@ -10,7 +10,7 @@ export const SidebarData = [
   },
   {
     title: "About",
-    path: "/aboutMe",
+    path: "/about",
     icon: <IoIcons.IoMdPerson />,
   },
   {
