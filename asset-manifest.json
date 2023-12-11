@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/dorotazielinska/static/js/main.bef7d036.js",
+    "static/js/787.63438af6.chunk.js": "/dorotazielinska/static/js/787.63438af6.chunk.js",
+    "static/media/footerGitHubIcon.svg": "/dorotazielinska/static/media/footerGitHubIcon.a8413e4653af35caf60e88d41913f1bc.svg",
+    "index.html": "/dorotazielinska/index.html",
+    "static/media/linkedIcon.svg": "/dorotazielinska/static/media/linkedIcon.aef0f9cd6e09c0ac3412d77bde82e7bc.svg",
+    "main.bef7d036.js.map": "/dorotazielinska/static/js/main.bef7d036.js.map",
+    "787.63438af6.chunk.js.map": "/dorotazielinska/static/js/787.63438af6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bef7d036.js"
+  ]
+}
