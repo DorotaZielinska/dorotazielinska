@@ -24,7 +24,7 @@ const breakpoints = {
 export const darkTheme = {
   primary: {
     text: themeColor.hintOfYellow,
-    background: themeColor.dolly,
+    background: themeColor.blackPearl,
   },
   burger: {
     background: themeColor.white,

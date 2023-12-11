@@ -11,8 +11,8 @@ html {
 }
 
 body {
-    background-color:  ${({ theme }) => theme.blackPearl};
-    font-family: 'Montserrat', sans-serif;
+    background-color: ${({ theme }) => theme.primary.background};
+    font-family: 'Lato', sans-serif;
     word-break: break-word;
     overflow-y: scroll; 
     color: ${({ theme }) => theme.primary.text};
